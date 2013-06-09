@@ -1,0 +1,15 @@
+{
+  "name": "package-to-dependency-stream",
+  "version": "0.0.0",
+  "description": "Create a stream of dependency objects from a package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Stephen Sugden <me@stephensugden.com>",
+  "license": "MIT",
+  "dependencies": {
+    "from": "~0.1.3"
+  }
+}
