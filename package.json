@@ -1,6 +1,6 @@
 {
   "name": "package-to-dependency-stream",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Create a stream of dependency objects from a package.json",
   "main": "index.js",
   "scripts": {
